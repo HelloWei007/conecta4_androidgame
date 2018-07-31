@@ -12,7 +12,7 @@ download the project from git
 
 install on a Android device 
   
-    move the apk on your phone.
+    move the apk on your phone. And read the manual.docx
 
 
   
