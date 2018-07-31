@@ -2,6 +2,8 @@
 
 note > the complete code is on bitbucket.
 
+    this proyect use : google firebase for online connections
+
 This apk is a simply game name's Connect Four, for more detail: https://en.wikipedia.org/wiki/Connect_Four
 
 -project install and play 
